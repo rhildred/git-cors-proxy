@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "start": "miniflare index.js --debug --watch --modules"
+  },
+  "devDependencies": {
+    "miniflare": "^2.10.0"
+  }
+}
